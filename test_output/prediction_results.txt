@@ -1,0 +1,21 @@
+# Astronomical Image Clustering Predictions
+
+## Summary
+- Cluster 0: 4 images - Multiple planetary bodies (17.8) | Multiple ring structures (5.8)
+- Cluster 1: 5 images - Single planetary body | Multiple ring structures (3.0)
+- Cluster 2: 4 images - Multiple planetary bodies (6.7) | Multiple ring structures (9.8)
+
+## Image Classifications
+1. planet34_00334_1250.fits: Cluster 1 - Single planetary body | Multiple ring structures (3.0)
+2. planet34_00418_1250.fits: Cluster 1 - Single planetary body | Multiple ring structures (3.0)
+3. planet35_00114_1250.fits: Cluster 0 - Multiple planetary bodies (17.8) | Multiple ring structures (5.8)
+4. planet36_00342_1250.fits: Cluster 0 - Multiple planetary bodies (17.8) | Multiple ring structures (5.8)
+5. planet42_00240_1250.fits: Cluster 1 - Single planetary body | Multiple ring structures (3.0)
+6. planet42_00400_1250.fits: Cluster 1 - Single planetary body | Multiple ring structures (3.0)
+7. planet43_00358_1250.fits: Cluster 2 - Multiple planetary bodies (6.7) | Multiple ring structures (9.8)
+8. planet43_00480_1250.fits: Cluster 2 - Multiple planetary bodies (6.7) | Multiple ring structures (9.8)
+9. planet43_00524_1250.fits: Cluster 2 - Multiple planetary bodies (6.7) | Multiple ring structures (9.8)
+10. planet44_00308_1250.fits: Cluster 0 - Multiple planetary bodies (17.8) | Multiple ring structures (5.8)
+11. planet44_00346_1250.fits: Cluster 1 - Single planetary body | Multiple ring structures (3.0)
+12. planet45_00608_1250.fits: Cluster 2 - Multiple planetary bodies (6.7) | Multiple ring structures (9.8)
+13. planet45_00886_1250.fits: Cluster 0 - Multiple planetary bodies (17.8) | Multiple ring structures (5.8)

@@ -1,0 +1,34 @@
+Cluster 0 (4 images): Multiple planetary bodies (17.8) | Multiple ring structures (5.8)
+  Raw values:
+    num_blobs: 17.8400
+    blob_mean_size: 8.2546
+    ring_count: 5.8400
+
+  planet35_00114_1250.fits
+  planet36_00342_1250.fits
+  planet44_00308_1250.fits
+  planet45_00886_1250.fits
+
+Cluster 1 (5 images): Single planetary body | Multiple ring structures (3.0)
+  Raw values:
+    num_blobs: 1.1951
+    blob_mean_size: 4.3046
+    ring_count: 3.0488
+
+  planet34_00334_1250.fits
+  planet34_00418_1250.fits
+  planet42_00240_1250.fits
+  planet42_00400_1250.fits
+  planet44_00346_1250.fits
+
+Cluster 2 (4 images): Multiple planetary bodies (6.7) | Multiple ring structures (9.8)
+  Raw values:
+    num_blobs: 7.7143
+    blob_mean_size: 19.8660
+    ring_count: 9.7619
+
+  planet43_00358_1250.fits
+  planet43_00480_1250.fits
+  planet43_00524_1250.fits
+  planet45_00608_1250.fits
+
