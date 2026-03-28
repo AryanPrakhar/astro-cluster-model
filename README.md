@@ -4,14 +4,35 @@
 
 ---
 
-## 📁 Overview
+## Computer Vision Techniques used:
 
-- 🔍 Extracts **52 handcrafted features**: radial, blob, and ring features.
-- 🔻 Reduces dimensions using **UMAP**/**PCA**.
-- 📌 Clusters using **K-Means**.
-- 🧠 Provides **cluster interpretations** and **sample images**.
+1. Radial Profile Analysis
+   
+   <img width="1920" height="771" alt="image" src="https://github.com/user-attachments/assets/9074975f-a249-41b6-9db3-ce6f27e8d4d3" />
 
----
+2. Blob detection using Laplacian of Gauss
+
+    <img width="749" height="366" alt="image" src="https://github.com/user-attachments/assets/c3903aab-9001-41b3-b088-cc2bd2024bea" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/af5d0d89-9332-44aa-af0b-6cf8c9a5ee5f" />
+
+3. Canny Edge Detection
+
+<img width="1200" height="594" alt="image" src="https://github.com/user-attachments/assets/bee8e0d5-b269-4ee8-b060-d332afb55993" />
+
+4. Hough Transform
+   
+   <img width="758" height="351" alt="image" src="https://github.com/user-attachments/assets/ca9af28c-6c64-44de-ac7b-2b39d0bf354d" />
+
+
+
+## Overview
+
+- Extracts **52 handcrafted features**: radial, blob, and ring features.
+- Reduces dimensions using **UMAP**/**PCA**.
+- Clusters using **K-Means**.
+- Provides **cluster interpretations** and **sample images**.
+
+
 
 ## 📸 Sample Astronomical Images
 
